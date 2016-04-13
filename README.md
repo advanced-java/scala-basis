@@ -4,7 +4,6 @@ Shows some usage of scala.
 
 Reference
 --------------
-
 - sacala download  
 www.scala-lang.org/download
 
